@@ -8,80 +8,30 @@ SIMPLE-COMPUTER-QUIZ-GAME-USING-PYTHON
 
 
 
-
-PROGRAM:
-```PYTHON
-        print("\nwelcome to my game")
-
-playing = input("\nDo you want to play the game?")
-
-
-if playing != "yes":
-    quit()
-
-print("\n**********Okay let's  play:)**********\n")
-
-print("Note: All the answers should be in small letter.\n")
-score = 0
-#1
-answer = input("What does CPU mean?\n")
-
-if answer == "central processing unit" :
-    print("Hurray! Correct!\n")
-    score=score+5
-
-else:
-    print("oops! Incorrect\n")
-
-#2
-
-answer = input("What does GPU stands for?\n")
-
-if answer == "graphics processing unit" :
-    print("Hurray! Correct!\n")
-    score = score+5
-else:
-    print("\noops! Incorrect\n")
-
-
-#3
-
-
-answer = input("What does RAM stands for?\n")
-
-if answer == "random access memory" :
-    print("Hurray! Correct!\n")
-    score = score+5
-
-else:
-    print("\noops! Incorrect\n")
-
-
-
-#4
-
-answer = input("What does PSU stands for?\n")
-
-if answer == "power supply unit" :
-    print("Hurray! Correct!\n")
-    score = score+5
-
-else:
-    print("\noops! Incorrect")
-
-
-print("\n!!!!!Your Score is : ",score,"/20 !!!!!")
+       INSTALLATION ON WINDOWS:
+       ```
+       1.Download the zip file.
+       2.Unzip the file.
+       3.douple click on the .exe file.
+       
+       
+       ```
+   
+   
+   
+===============================================================================================================================================================================
+       INSTALLATION ON LINUX:
+       ```      
+       1. git clone https://github.com/karthickop6/SIMPLE-COMPUTER-QUIZ-GAME-USING-PYTHON-.git
+       2.cd SIMPLE-COMPUTER-QUIZ-GAME-USING-PYTHON-
+       3. sudo python3 COMPUTER_QUIZ.exe
 
 ```
 
 
 
 
-
-
-
-
-------------------------------------------THANKS FOR VISITING :)-----------------------------------------------------------
+                                                                        THANKS FOR VISITING :)
 
 
 
