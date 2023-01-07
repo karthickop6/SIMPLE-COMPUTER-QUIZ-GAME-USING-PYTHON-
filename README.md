@@ -8,14 +8,7 @@ SIMPLE-COMPUTER-QUIZ-GAME-USING-PYTHON
 
 
 
-       INSTALLATION ON WINDOWS:
-       
-       1.Download the zip file.
-       
-       2.Unzip the file.
-       
-       3.double click on the .exe file.
-       
+      
        
        
    
